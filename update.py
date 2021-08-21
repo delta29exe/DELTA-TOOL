@@ -12,7 +12,7 @@ if alqoritm=="exit":
 	quit()
 elif alqoritm=="Y" or alqoritm=="y":
 	os.system("cowsay R.H.A-TOOL GUNCELLENIR")
-	os.system("git clone https://github.com/delta29exe/R.H.A-TOOL")
+	os.system("git clone https://github.com/delta29exe/R.H.A-TOOL/r.h.a-tool.py")
 	os.system("figlet RED HACK AZE")
 	os.system("cowsay R.H.A-TOOL GUNCELLENMISDIR")
 	secim=input("Cixmaq Ucun C yazib Enter-e basin : ")
