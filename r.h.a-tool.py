@@ -207,7 +207,7 @@ elif command=="BI" or command=="bi" or command=="Bİ":
 	os.system("clear")
 	os.system("cowsay Wordlist üçün Cupp toolu yüklənir")
 	os.system("git clone https://github.com/Mebus/cupp")
-	os.systen("mv cupp $HOME")
+	os.system("mv cupp $HOME")
 	os.system("clear")
 	print("""
 Bruteforce üçün əvvəlcə Cupp ilə
