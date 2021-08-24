@@ -4,7 +4,7 @@ QURULUM :
 `pkg install git python python3 cowsay && git clone https://github.com/delta29exe/DELTA-TOOL`
 ----------------------------------------------------------------------
 >Tool, DΞLTΛ29.exe tərəfindən kodlanmışdır,
-Termux-a yeni baslamisinizsa, size cox komeyi deyecek :)
+Termux-a yeni başlamısınızsa, sizə çox köməyi dəyəcək :)
 ----------------------------------------------------------------------
 [ TERMUXX TOOLSS ]
 Telegram : @termuxxtoolss
