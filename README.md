@@ -6,9 +6,6 @@ QURULUM :
 
 Termux-a yeni başlamısınızsa, sizə çox köməyi dəyəcək :)
 -
-[ TERMUXX TOOLSS ]
-
-Telegram : @termuxxtoolss
 
 Telegram : @delta29exetools
 
