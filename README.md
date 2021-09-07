@@ -2,9 +2,9 @@
 <details>
   <summary>Lazımlı Paketlər :</summary>
 
-  >git, python, python3, cowsay
+  * git, python, python3, cowsay
 
-  <summary>Yükləniş :</summary>
+  > Yükləniş :
 
    ```sh
    1) apt update
@@ -17,7 +17,7 @@
   <summary>QURULUM :</summary>
   
 * İlk Qurulum :
-    Termux-a DELTA-TOOL`u ilk dəfə qurursunuzsa
+   > Termux-a DELTA-TOOL`u ilk dəfə qurursunuzsa
     Bunları sıra sıra yazmağınız lazımdır ;
 
   ```sh
@@ -27,7 +27,7 @@
   4) git clone https://github.com/delta29exe/DELTA-TOOL
   ```
 * Köhnə Versiyanı Yeni Versiyaya Güncəlləmək :
-    Əvvəlki Versiyanı Silib Yeni Versiyanı Yükləmək lazımdır ;
+   > Əvvəlki Versiyanı Silib Yeni Versiyanı Yükləmək lazımdır ;
 
   ```sh
   1) rm -rf DELTA-TOOL
@@ -38,7 +38,7 @@
 <details>
   <summary>İstifadə :</summary>
 
-  >Sadə Termux əmrləri ilə Tool`a girib istifadə edəcəksiniz
+  * Sadə Termux əmrləri ilə Tool`a girib istifadə edəcəksiniz ;
 
   ```sh
   1) cd DELTA-TOOL
@@ -48,12 +48,15 @@
 <details>
   <summary>Əlaqə :</summary>
 
-  >Telegram kanal : @delta29exetools (aktiv deyil :D)
+  * Telegram :
+  > @delta29exe (aktiv deyil :D)
 
-  >Gmail : delta29exe@gmail.com
+  * Telegram kanal :
+  > @delta29exetools
+
+  * Gmail :
+  > delta29exe@gmail.com
 </details>
 
-## İşləyir :
-* Termux
-## Test Edilib :
+## İşləyir / Test Edilib :
 * Termux
