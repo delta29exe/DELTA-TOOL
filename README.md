@@ -15,14 +15,18 @@
 
 <details>
   <summary>QURULUM :</summary>
-    <summary>İlk Qurulum :</summary>
+  
+* İlk Qurulum :
     Termux-a DELTA-TOOL`u ilk dəfə qurursunuzsa
     Bunları sıra sıra yazmağınız lazımdır ;
 
   ```sh
-  apt update && apt upgrade -y && pkg install git python python3 cowsay && git clone https://github.com/delta29exe/DELTA-TOOL
+  1) apt update
+  2) apt upgrade -y
+  3) pkg install git python python3 cowsay
+  4) git clone https://github.com/delta29exe/DELTA-TOOL
   ```
-  <summary>Köhnə Versiyanı Yeni Versiyaya Güncəlləmək :</summary>
+* Köhnə Versiyanı Yeni Versiyaya Güncəlləmək :
     Əvvəlki Versiyanı Silib Yeni Versiyanı Yükləmək lazımdır ;
 
   ```sh
@@ -41,7 +45,6 @@
   2) python3 delta-tool.py
   ```
 </details>
-
 <details>
   <summary>Əlaqə :</summary>
 
@@ -49,3 +52,8 @@
 
   >Gmail : delta29exe@gmail.com
 </details>
+
+## İşləyir :
+* Termux
+## Test Edilib :
+* Termux
