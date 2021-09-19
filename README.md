@@ -2,9 +2,9 @@
 <details>
   <summary>Lazımlı Paketlər :</summary>
 
-  * git, python, python3, cowsay
+     git, python, python3, cowsay
 
-  > Yükləniş :
+  * Yükləniş :
 
    ```sh
    1) apt update
@@ -23,7 +23,7 @@
   ```sh
   1) apt update
   2) apt upgrade -y
-  3) pkg install git python python3 cowsay
+  3) pkg install git python python3 cowsay -y
   4) git clone https://github.com/delta29exe/DELTA-TOOL
   ```
 * Köhnə Versiyanı Yeni Versiyaya Güncəlləmək :
@@ -38,7 +38,7 @@
 <details>
   <summary>İstifadə :</summary>
 
-  * Sadə Termux əmrləri ilə Tool`a girib istifadə edəcəksiniz ;
+  ### Sadə Termux əmrləri ilə Tool`a girib istifadə edəcəksiniz ;
 
   ```sh
   1) cd DELTA-TOOL
@@ -48,14 +48,15 @@
 <details>
   <summary>Əlaqə :</summary>
 
-  * Telegram :
+* Telegram :
   > @delta29exe (aktiv deyil :D)
 
-  * Telegram kanal :
+* Telegram kanal :
   > @delta29exetools
 
-  * Gmail :
+* Gmail :
   > delta29exe@gmail.com
+
 </details>
 
 ## İşləyir / Test Edilib :
