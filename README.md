@@ -71,4 +71,4 @@
 
 * Parrot
 
-> * ### Tool İşləmir. Əsas fayl silinib. Geri yüklənəcəkdir.
+> Tool İşləmir. Əsas fayl silinib. Geri yüklənəcəkdir.
