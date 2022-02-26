@@ -50,15 +50,17 @@
 
 * Telegram :
   > @delta29exe
+  > https://t.me/delta29exe
 
 * Telegram kanal :
   > @delta29exetools
+  > https://t.me/delta29exetools
 
 * Gmail :
   > delta29exe@gmail.com
 
 * İnstagram :
-  > _ delta29exe _
+  > delta29exe
 
 </details>
 
@@ -69,4 +71,4 @@
 
 * Parrot
 
-> * Tool İşləmir. Əsas fayl silinib. Geri yüklənəcəkdir.
+> * ### Tool İşləmir. Əsas fayl silinib. Geri yüklənəcəkdir.
